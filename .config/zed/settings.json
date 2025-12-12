@@ -1,0 +1,57 @@
+{
+	"outline_panel": {
+		"button": false
+	},
+	"debugger": {
+		"dock": "left"
+	},
+	"terminal": {
+		"dock": "bottom"
+	},
+	"collaboration_panel": {
+		"button": false
+	},
+	"notification_panel": {
+		"button": false
+	},
+	"project_panel": {
+		"hide_root": true
+	},
+	"bottom_dock_layout": "full",
+	"tabs": {
+		"close_position": "right",
+		"file_icons": true,
+		"git_status": true
+	},
+	"title_bar": {
+		"show_menus": false,
+		"show_branch_icon": true
+	},
+	"status_bar": {
+		"cursor_position_button": false
+	},
+	"use_smartcase_search": true,
+	"languages": {
+		"Python": {
+			"hard_tabs": false
+		}
+	},
+	"hard_tabs": true,
+	"relative_line_numbers": true,
+	"current_line_highlight": "gutter",
+	"buffer_font_weight": 400.0,
+	"buffer_font_family": ".ZedMono",
+	"auto_update": false,
+	"telemetry": {
+		"diagnostics": false,
+		"metrics": false
+	},
+	"vim_mode": true,
+	"ui_font_size": 18.0,
+	"buffer_font_size": 16.0,
+	"theme": {
+		"mode": "system",
+		"light": "One Light",
+		"dark": "Gruvbox Dark"
+	}
+}
